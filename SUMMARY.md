@@ -1,8 +1,10 @@
 # Summary
 
-* [Part I](part1/README.md)
+* [Chapter 1](part1/README.md)
     * [Writing is nice](part1/writing.md)
     * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [Chapter 2](GitLearning/README.md)
+    * [git问与答](GitLearning/gitQ_A.md)
+    * [git文件过滤提交](GitLearning/git过滤文件提交.md)
+* [Chapter 3](DevelopersThings.md)
+* [Chapter 4](IDE.md)
